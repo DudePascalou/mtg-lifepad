@@ -1,2 +1,2 @@
-# mtg-score-keeping
+# Score Keeping
 A Magic, The Gathering score keeping template.
